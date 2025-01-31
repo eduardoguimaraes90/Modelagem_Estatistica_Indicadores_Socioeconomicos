@@ -48,6 +48,8 @@ O objetivo deste projeto é construir um modelo estatístico capaz de explicar a
 - **Statsmodels** para modelagem estatística
 - **Scikit-learn** para pré-processamento dos dados
 
+## Abra o arquivo Modelagem_Estatística_em_Indicadores_Socioeconômicos.ipynb para acessar o projeto
+
 ## Contribuição
 
 Fique à vontade para enviar sugestões de melhorias no email edulguimaraes@gmail.com.
